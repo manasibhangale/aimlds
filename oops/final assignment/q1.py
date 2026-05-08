@@ -21,5 +21,5 @@ class Square:
     
 shapes=[Circle(5),Square(5)]
 for shape in shapes:
-    print(shape.area())
+    print(shape.area()) #Crcle().area() #Square().area()
     
