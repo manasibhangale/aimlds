@@ -15,3 +15,4 @@ print(isinstance(animal, Animal))  # True
 print(isinstance(cat, Animal))  # True
 print(isinstance(cat, Cat))  # True
 print(isinstance(animal, Cat))  # False
+#isinstance() is used to check whether an object belongs to a particular class or its parent class.

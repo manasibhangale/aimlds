@@ -17,7 +17,7 @@ class Camera:
 
 class SmartPhone(Phone,Camera):
     def __init__(self,brand,model,resolution):
-        super().__init__(brand,model)
+        super().__init__(brand,model) #Phone.__init__(self,brand,model)
         Camera.__init__(self,resolution)
 
 smartphone=SmartPhone("Apple","13 PRO","12MEGPIXEL")
