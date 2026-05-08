@@ -1,3 +1,7 @@
+### Assignment 14: Class with Context Manager
+
+#Create a class named `FileManager` that implements the context manager protocol to open and close a file. Use this class to read the contents of a file.
+
 class FileManager:
     def __init__(self, filename, mode):
         self.filename = filename

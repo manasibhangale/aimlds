@@ -1,3 +1,7 @@
+### Assignment 13: Class with Custom Exception
+
+#Create a custom exception named `InsufficientBalanceError`. In the `BankAccount` class, raise this exception when a withdrawal amount is greater than the balance. Handle the exception and print an appropriate message.
+
 class InsufficientBalanceError(Exception):
     pass
 
