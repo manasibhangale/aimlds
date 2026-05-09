@@ -1,0 +1,501 @@
+Student_ID,Name,Age,Course,Marks,Attendance_Percentage,City,Semester,CGPA
+1001,Priya,22,Cyber Security,94,65,Palghar,1,5.19
+1002,Manasi,23,CSE,67,60,Delhi,5,9.25
+1003,Riya,22,ECE,62,86,Nagpur,7,8.3
+1004,Vihaan,23,DS,92,82,Thane,4,6.53
+1005,Vivaan,20,CSE,85,70,Palghar,6,5.92
+1006,Aarav,22,Cyber Security,70,77,Pune,8,9.61
+1007,Vihaan,20,Cyber Security,81,68,Mumbai,5,7.21
+1008,Aditya,18,IT,67,94,Thane,7,9.24
+1009,Vivaan,21,CSE,77,79,Thane,1,5.58
+1010,Reyansh,25,IT,84,74,Nashik,4,8.8
+1011,Neha,22,DS,99,89,Thane,1,7.58
+1012,Aarav,19,ECE,50,86,Mumbai,1,9.68
+1013,Sneha,25,ECE,89,79,Pune,5,9.86
+1014,Neha,19,Mechanical,52,65,Pune,8,8.58
+1015,Reyansh,22,ECE,79,60,Mumbai,5,7.2
+1016,Vihaan,25,IT,80,84,Thane,3,8.57
+1017,Aditya,23,Cyber Security,61,89,Delhi,3,8.15
+1018,Aditya,19,Cyber Security,58,62,Palghar,7,7.95
+1019,Kavya,18,IT,87,83,Palghar,1,8.07
+1020,Vihaan,21,DS,51,65,Delhi,3,6.02
+1021,Arjun,22,ECE,94,61,Thane,7,6.52
+1022,Priya,18,Mechanical,76,84,Mumbai,6,5.52
+1023,Aarav,24,ECE,52,99,Nagpur,2,5.01
+1024,Neha,24,AI,89,91,Pune,1,7.3
+1025,Kavya,19,Cyber Security,76,99,Thane,5,9.79
+1026,Sneha,20,DS,95,65,Thane,2,5.6
+1027,Sai,18,ECE,92,62,Pune,1,8.25
+1028,Ananya,25,IT,55,83,Mumbai,3,9.02
+1029,Kavya,20,DS,55,99,Delhi,3,7.2
+1030,Sneha,22,IT,55,70,Mumbai,3,8.32
+1031,Vivaan,18,Cyber Security,78,75,Delhi,3,6.72
+1032,Ananya,21,Mechanical,86,93,Nagpur,7,8.69
+1033,Aditya,21,AI,55,83,Nashik,5,8.31
+1034,Priya,24,Cyber Security,66,62,Nagpur,1,7.49
+1035,Priya,20,Mechanical,52,71,Nashik,2,8.17
+1036,Priya,18,CSE,96,62,Nashik,8,7.22
+1037,Arjun,24,IT,76,68,Thane,7,7.91
+1038,Manasi,22,AI,100,100,Pune,2,7.11
+1039,Neha,25,Mechanical,68,83,Nagpur,3,9.74
+1040,Manasi,23,CSE,73,91,Pune,5,6.86
+1041,Sai,21,Mechanical,93,64,Pune,3,6.43
+1042,Neha,20,DS,94,61,Pune,4,6.04
+1043,Ananya,20,ECE,65,90,Mumbai,4,6.78
+1044,Aditya,24,AI,75,89,Pune,1,8.91
+1045,Riya,22,IT,75,68,Delhi,7,9.67
+1046,Riya,18,Mechanical,64,89,Mumbai,4,9.48
+1047,Neha,24,DS,55,80,Pune,7,5.65
+1048,Neha,22,CSE,76,75,Pune,8,10.0
+1049,Neha,24,ECE,83,61,Nagpur,4,5.24
+1050,Aarav,18,CSE,84,65,Nagpur,2,9.57
+1051,Manasi,19,CSE,99,63,Nagpur,7,5.19
+1052,Aditya,23,IT,87,71,Pune,6,7.31
+1053,Neha,18,ECE,78,80,Nagpur,5,5.16
+1054,Ananya,24,Cyber Security,80,81,Delhi,1,9.48
+1055,Riya,24,AI,94,68,Palghar,7,8.64
+1056,Neha,22,CSE,97,74,Delhi,7,5.97
+1057,Aditya,21,CSE,81,81,Nashik,3,6.61
+1058,Sneha,21,IT,61,69,Pune,5,6.75
+1059,Ananya,18,IT,90,77,Pune,7,6.61
+1060,Aarav,20,DS,71,87,Mumbai,7,8.19
+1061,Neha,23,Cyber Security,57,99,Nagpur,7,5.09
+1062,Vihaan,22,AI,82,60,Palghar,3,7.27
+1063,Riya,22,ECE,64,95,Pune,7,5.39
+1064,Kavya,24,AI,61,96,Palghar,5,8.37
+1065,Sai,23,IT,83,72,Palghar,3,6.25
+1066,Arjun,24,ECE,52,91,Pune,2,8.63
+1067,Aditya,19,CSE,85,61,Palghar,6,5.44
+1068,Kavya,24,AI,60,75,Thane,7,8.5
+1069,Arjun,23,Cyber Security,89,74,Palghar,6,6.59
+1070,Kavya,23,Cyber Security,50,98,Palghar,2,8.75
+1071,Riya,18,DS,95,98,Delhi,3,8.44
+1072,Arjun,24,AI,56,87,Nashik,3,6.43
+1073,Vivaan,19,Cyber Security,68,97,Nashik,8,8.81
+1074,Arjun,24,ECE,61,94,Pune,6,9.87
+1075,Kavya,25,IT,91,85,Pune,8,6.13
+1076,Reyansh,22,CSE,85,68,Pune,1,9.57
+1077,Riya,25,IT,55,83,Palghar,4,8.83
+1078,Sneha,23,AI,74,96,Nashik,4,9.4
+1079,Sai,19,AI,92,82,Palghar,6,5.33
+1080,Reyansh,24,Cyber Security,93,92,Nagpur,6,5.87
+1081,Aarav,20,Cyber Security,60,79,Nashik,5,9.61
+1082,Riya,20,Cyber Security,64,61,Nashik,4,8.19
+1083,Riya,20,DS,57,61,Delhi,3,6.24
+1084,Riya,21,ECE,85,64,Nagpur,4,6.81
+1085,Vivaan,21,Mechanical,78,70,Nagpur,8,7.61
+1086,Vihaan,19,CSE,58,97,Thane,5,5.81
+1087,Priya,24,DS,94,78,Thane,6,6.28
+1088,Arjun,24,DS,80,78,Pune,3,8.25
+1089,Kavya,19,Cyber Security,59,60,Pune,8,9.87
+1090,Priya,22,AI,85,68,Mumbai,8,5.95
+1091,Sneha,22,IT,81,89,Nashik,3,8.66
+1092,Aarav,23,ECE,53,82,Nagpur,2,7.47
+1093,Sai,21,DS,88,67,Nagpur,6,6.93
+1094,Ananya,19,CSE,77,61,Nagpur,6,9.88
+1095,Neha,24,CSE,100,71,Palghar,3,9.14
+1096,Vivaan,19,IT,59,93,Delhi,7,6.52
+1097,Aditya,19,ECE,72,88,Pune,5,9.49
+1098,Manasi,22,AI,61,64,Nagpur,6,6.73
+1099,Kavya,22,Cyber Security,68,63,Nagpur,7,5.43
+1100,Riya,19,AI,99,80,Thane,3,6.61
+1101,Neha,20,Cyber Security,79,89,Pune,8,5.23
+1102,Manasi,24,Mechanical,71,64,Mumbai,2,6.1
+1103,Neha,21,CSE,56,79,Nashik,2,6.96
+1104,Kavya,22,ECE,69,73,Delhi,2,6.69
+1105,Reyansh,23,AI,72,95,Mumbai,1,9.25
+1106,Arjun,23,Mechanical,98,83,Thane,4,5.42
+1107,Neha,22,AI,96,78,Palghar,5,10.0
+1108,Vihaan,20,IT,72,93,Nagpur,6,9.08
+1109,Ananya,24,Mechanical,65,69,Pune,5,9.94
+1110,Aditya,21,Cyber Security,92,98,Delhi,4,8.15
+1111,Sneha,23,DS,92,97,Palghar,6,9.65
+1112,Ananya,22,Cyber Security,77,86,Nagpur,1,9.37
+1113,Vivaan,25,AI,59,75,Pune,7,6.56
+1114,Neha,25,DS,58,80,Nashik,5,9.38
+1115,Manasi,20,IT,79,91,Nashik,4,5.3
+1116,Reyansh,25,IT,54,94,Nagpur,8,7.59
+1117,Reyansh,23,Mechanical,71,62,Palghar,7,5.47
+1118,Arjun,24,IT,82,87,Palghar,3,6.86
+1119,Arjun,21,Mechanical,68,92,Thane,2,5.53
+1120,Aditya,23,Mechanical,53,67,Mumbai,6,7.87
+1121,Reyansh,20,IT,94,85,Palghar,8,8.38
+1122,Priya,19,IT,52,64,Mumbai,2,5.95
+1123,Vihaan,23,CSE,52,93,Nashik,1,8.12
+1124,Reyansh,19,IT,83,92,Nagpur,3,9.63
+1125,Arjun,20,IT,59,70,Thane,4,6.11
+1126,Reyansh,23,Mechanical,89,99,Mumbai,7,6.36
+1127,Sneha,24,Cyber Security,70,67,Delhi,4,6.26
+1128,Vivaan,24,DS,100,66,Thane,7,5.57
+1129,Riya,23,Mechanical,84,68,Palghar,6,8.95
+1130,Sneha,20,ECE,75,74,Delhi,8,6.5
+1131,Aditya,19,IT,85,60,Pune,2,9.97
+1132,Aarav,18,Cyber Security,74,66,Delhi,1,6.17
+1133,Arjun,23,CSE,90,65,Pune,5,9.54
+1134,Vivaan,18,IT,88,97,Thane,1,6.57
+1135,Neha,21,Cyber Security,75,67,Pune,3,8.09
+1136,Manasi,19,ECE,65,88,Thane,7,5.77
+1137,Riya,22,CSE,77,77,Delhi,2,5.9
+1138,Manasi,19,Mechanical,93,92,Palghar,4,9.47
+1139,Arjun,19,ECE,63,78,Delhi,5,6.74
+1140,Priya,22,AI,71,70,Mumbai,3,6.16
+1141,Priya,24,IT,65,81,Delhi,8,5.13
+1142,Ananya,22,IT,75,82,Nagpur,2,7.14
+1143,Arjun,19,Cyber Security,54,77,Palghar,7,7.85
+1144,Sneha,22,AI,99,66,Thane,3,10.0
+1145,Priya,21,CSE,95,89,Palghar,3,7.12
+1146,Sneha,23,Mechanical,61,86,Nagpur,1,7.86
+1147,Kavya,18,ECE,62,70,Delhi,8,6.05
+1148,Sai,21,IT,75,95,Nagpur,5,7.53
+1149,Aarav,25,Mechanical,83,92,Delhi,5,7.57
+1150,Aarav,24,Mechanical,58,87,Thane,3,9.78
+1151,Reyansh,18,ECE,50,87,Nashik,8,5.69
+1152,Reyansh,24,Mechanical,88,100,Nagpur,4,6.87
+1153,Priya,20,Cyber Security,83,72,Nashik,8,8.72
+1154,Vivaan,24,Cyber Security,58,88,Thane,2,9.69
+1155,Ananya,23,AI,96,72,Thane,8,9.12
+1156,Reyansh,22,ECE,57,60,Thane,1,6.04
+1157,Vihaan,20,DS,75,85,Nagpur,2,8.92
+1158,Aarav,20,AI,55,84,Delhi,2,9.3
+1159,Reyansh,19,Mechanical,59,79,Palghar,3,9.55
+1160,Reyansh,19,AI,63,96,Nashik,1,8.45
+1161,Vivaan,20,Mechanical,83,74,Palghar,1,5.58
+1162,Arjun,22,CSE,60,80,Thane,7,6.1
+1163,Vivaan,18,DS,61,61,Nagpur,2,8.21
+1164,Sai,23,ECE,69,93,Nashik,8,8.82
+1165,Aarav,19,IT,58,100,Palghar,2,7.97
+1166,Arjun,18,DS,70,76,Palghar,8,7.76
+1167,Ananya,19,ECE,74,64,Mumbai,1,6.27
+1168,Neha,23,DS,61,95,Delhi,3,9.43
+1169,Vihaan,23,IT,70,85,Delhi,6,7.02
+1170,Aditya,19,AI,67,82,Nashik,7,8.29
+1171,Ananya,18,Cyber Security,67,82,Nagpur,1,6.1
+1172,Riya,23,AI,70,64,Nagpur,1,5.48
+1173,Vivaan,20,IT,81,76,Pune,7,9.49
+1174,Aditya,19,DS,70,88,Palghar,3,6.38
+1175,Riya,25,Mechanical,71,66,Pune,5,9.85
+1176,Ananya,22,Mechanical,86,98,Pune,4,7.52
+1177,Ananya,21,DS,84,80,Nashik,1,8.12
+1178,Vivaan,25,IT,79,70,Mumbai,2,9.66
+1179,Aditya,19,CSE,74,75,Palghar,3,6.16
+1180,Ananya,19,CSE,94,96,Mumbai,6,8.96
+1181,Neha,20,Cyber Security,74,65,Mumbai,1,6.65
+1182,Kavya,23,IT,68,93,Nagpur,1,5.52
+1183,Aarav,18,AI,83,89,Mumbai,6,7.82
+1184,Vihaan,18,DS,55,77,Thane,4,7.6
+1185,Arjun,25,ECE,52,62,Nagpur,8,7.68
+1186,Priya,19,Cyber Security,67,81,Thane,1,8.9
+1187,Vihaan,22,CSE,95,78,Palghar,1,7.79
+1188,Arjun,18,Cyber Security,57,88,Mumbai,6,7.99
+1189,Manasi,24,Cyber Security,80,67,Delhi,3,5.79
+1190,Sneha,24,Mechanical,75,99,Delhi,7,8.68
+1191,Ananya,18,Mechanical,99,66,Mumbai,3,5.69
+1192,Arjun,22,IT,77,76,Mumbai,4,8.45
+1193,Neha,23,Cyber Security,99,63,Palghar,3,9.86
+1194,Vivaan,24,Cyber Security,51,93,Thane,7,8.14
+1195,Riya,20,DS,65,98,Delhi,7,8.96
+1196,Vivaan,25,IT,65,84,Pune,8,5.28
+1197,Manasi,21,CSE,96,78,Nagpur,7,6.47
+1198,Manasi,22,DS,53,68,Mumbai,7,5.97
+1199,Vivaan,20,IT,86,90,Pune,6,9.98
+1200,Manasi,23,Mechanical,80,73,Palghar,1,6.42
+1201,Vihaan,25,ECE,83,66,Mumbai,5,8.05
+1202,Neha,22,IT,91,61,Nagpur,1,7.66
+1203,Priya,18,IT,89,89,Pune,5,8.77
+1204,Kavya,21,CSE,78,64,Palghar,8,6.52
+1205,Riya,21,CSE,61,70,Pune,3,9.8
+1206,Sai,22,CSE,71,70,Mumbai,4,6.8
+1207,Kavya,20,Mechanical,88,94,Pune,8,7.75
+1208,Ananya,20,AI,94,77,Palghar,8,8.06
+1209,Sai,25,DS,54,96,Nashik,3,8.17
+1210,Arjun,24,DS,56,62,Delhi,4,6.22
+1211,Vihaan,19,CSE,67,86,Pune,2,7.88
+1212,Riya,20,CSE,93,80,Thane,8,6.32
+1213,Vivaan,19,DS,58,92,Thane,6,6.31
+1214,Manasi,22,ECE,64,77,Nagpur,6,6.84
+1215,Ananya,21,CSE,100,71,Delhi,4,9.17
+1216,Aditya,22,ECE,84,71,Delhi,5,6.72
+1217,Vihaan,20,ECE,75,76,Nagpur,2,8.7
+1218,Manasi,25,Mechanical,52,86,Nashik,6,7.46
+1219,Riya,25,IT,72,75,Pune,5,9.23
+1220,Aarav,19,IT,70,99,Pune,2,9.93
+1221,Aarav,19,Cyber Security,60,69,Nagpur,8,7.47
+1222,Sai,23,Mechanical,79,95,Pune,6,6.31
+1223,Aditya,24,Mechanical,96,85,Thane,3,7.45
+1224,Arjun,22,IT,88,79,Mumbai,2,7.24
+1225,Aditya,18,AI,90,87,Mumbai,1,8.0
+1226,Aarav,18,AI,85,73,Pune,8,8.31
+1227,Aarav,18,CSE,88,91,Delhi,5,8.89
+1228,Sai,21,CSE,87,94,Nashik,5,7.47
+1229,Arjun,25,Mechanical,76,96,Mumbai,6,6.08
+1230,Neha,20,Mechanical,56,98,Delhi,4,5.83
+1231,Kavya,20,AI,88,97,Mumbai,7,6.21
+1232,Arjun,19,ECE,77,61,Delhi,1,8.48
+1233,Sneha,18,Mechanical,57,60,Delhi,4,7.34
+1234,Kavya,23,DS,86,79,Nashik,6,7.11
+1235,Vivaan,20,IT,72,67,Mumbai,4,5.53
+1236,Aditya,23,DS,90,99,Pune,4,9.51
+1237,Vihaan,22,DS,82,63,Palghar,4,9.47
+1238,Neha,22,Cyber Security,67,63,Pune,6,5.71
+1239,Sai,21,Cyber Security,61,61,Delhi,7,9.97
+1240,Vihaan,18,ECE,78,69,Mumbai,8,6.3
+1241,Neha,24,CSE,71,65,Pune,3,5.11
+1242,Manasi,18,AI,74,95,Delhi,7,6.64
+1243,Aditya,23,IT,100,76,Mumbai,6,7.7
+1244,Manasi,20,CSE,64,60,Delhi,1,8.07
+1245,Aditya,24,CSE,54,92,Nashik,8,6.65
+1246,Aditya,20,Mechanical,92,91,Mumbai,5,8.64
+1247,Arjun,25,Cyber Security,93,82,Thane,6,9.67
+1248,Aarav,23,IT,55,89,Palghar,6,9.51
+1249,Aarav,18,Cyber Security,93,79,Nashik,2,8.43
+1250,Aditya,23,ECE,76,73,Pune,1,9.53
+1251,Ananya,24,Cyber Security,90,100,Nagpur,7,9.02
+1252,Vivaan,21,Mechanical,83,85,Nagpur,4,9.86
+1253,Vivaan,24,AI,78,98,Nashik,3,6.57
+1254,Manasi,21,IT,85,94,Nashik,4,6.05
+1255,Arjun,18,DS,98,71,Pune,2,6.83
+1256,Vivaan,20,IT,57,78,Nagpur,5,6.34
+1257,Sai,20,DS,76,94,Thane,6,6.88
+1258,Aditya,23,DS,87,93,Nagpur,6,9.71
+1259,Neha,22,IT,79,74,Pune,3,8.46
+1260,Kavya,19,ECE,91,89,Mumbai,7,5.03
+1261,Priya,19,CSE,54,84,Thane,4,6.11
+1262,Sneha,20,DS,89,69,Mumbai,4,7.14
+1263,Vivaan,21,IT,67,83,Nagpur,6,6.84
+1264,Arjun,22,AI,75,78,Palghar,8,5.96
+1265,Riya,23,IT,92,70,Pune,7,6.18
+1266,Arjun,23,ECE,86,63,Pune,3,8.75
+1267,Sai,22,IT,89,60,Nagpur,1,8.4
+1268,Kavya,24,Cyber Security,90,75,Delhi,2,8.97
+1269,Sneha,19,Mechanical,55,86,Mumbai,4,6.36
+1270,Aarav,24,Cyber Security,95,89,Thane,5,9.71
+1271,Priya,18,DS,62,95,Nashik,3,8.19
+1272,Aditya,25,ECE,78,87,Thane,3,5.56
+1273,Vihaan,21,DS,75,87,Nashik,7,6.09
+1274,Manasi,20,Mechanical,55,90,Delhi,4,6.39
+1275,Riya,20,DS,89,95,Nagpur,8,6.92
+1276,Reyansh,18,CSE,53,84,Palghar,4,7.72
+1277,Kavya,25,IT,96,93,Mumbai,3,5.63
+1278,Sai,21,IT,82,69,Delhi,6,6.67
+1279,Priya,22,IT,71,79,Nagpur,4,8.59
+1280,Neha,24,AI,84,83,Delhi,6,8.33
+1281,Aarav,19,ECE,86,83,Thane,8,7.65
+1282,Manasi,19,AI,76,98,Thane,8,8.32
+1283,Ananya,19,Cyber Security,82,85,Mumbai,5,6.66
+1284,Sai,19,IT,89,93,Thane,4,7.4
+1285,Sneha,23,AI,68,67,Pune,1,5.0
+1286,Arjun,20,ECE,92,83,Palghar,7,9.41
+1287,Aditya,25,CSE,98,97,Thane,2,9.59
+1288,Riya,25,Mechanical,53,80,Thane,4,8.06
+1289,Priya,21,ECE,99,68,Pune,2,5.34
+1290,Neha,23,CSE,81,66,Palghar,4,7.85
+1291,Sneha,23,Mechanical,80,66,Nashik,3,6.18
+1292,Manasi,20,Mechanical,78,82,Nashik,3,6.09
+1293,Aarav,18,IT,95,96,Mumbai,7,6.69
+1294,Aditya,23,AI,53,88,Mumbai,2,9.14
+1295,Vihaan,23,AI,54,85,Palghar,1,6.92
+1296,Reyansh,22,Mechanical,89,81,Thane,2,7.4
+1297,Ananya,20,Cyber Security,82,67,Palghar,5,5.32
+1298,Sneha,22,CSE,92,60,Nashik,7,8.49
+1299,Sneha,20,ECE,54,70,Mumbai,5,5.03
+1300,Sai,24,DS,62,71,Thane,8,8.28
+1301,Reyansh,25,Cyber Security,84,96,Pune,2,9.32
+1302,Sai,21,AI,82,61,Pune,5,6.08
+1303,Sneha,20,AI,97,61,Delhi,4,7.75
+1304,Aditya,19,Cyber Security,55,88,Thane,8,7.38
+1305,Aditya,22,DS,64,80,Palghar,4,6.51
+1306,Priya,20,AI,68,66,Palghar,8,8.72
+1307,Neha,22,Mechanical,51,65,Thane,5,5.07
+1308,Vivaan,22,IT,69,67,Mumbai,4,9.74
+1309,Neha,25,AI,86,63,Nashik,2,7.0
+1310,Aditya,24,Mechanical,60,82,Thane,1,8.72
+1311,Riya,18,DS,51,99,Nashik,2,5.82
+1312,Neha,23,Mechanical,84,88,Nashik,4,7.59
+1313,Aditya,25,AI,75,63,Nagpur,6,6.33
+1314,Neha,24,DS,53,79,Palghar,6,8.14
+1315,Ananya,18,Cyber Security,94,94,Pune,7,5.13
+1316,Priya,25,AI,77,63,Nashik,3,5.31
+1317,Aditya,24,DS,70,77,Pune,4,6.51
+1318,Priya,20,AI,66,96,Pune,2,7.29
+1319,Ananya,25,CSE,99,74,Thane,3,9.47
+1320,Arjun,19,IT,94,73,Nashik,5,7.26
+1321,Ananya,24,Cyber Security,92,87,Nagpur,4,7.69
+1322,Aarav,22,DS,76,88,Delhi,2,9.83
+1323,Vihaan,22,ECE,68,62,Mumbai,2,7.02
+1324,Sneha,20,Mechanical,66,94,Pune,6,6.28
+1325,Ananya,21,DS,77,92,Palghar,4,6.04
+1326,Ananya,25,AI,58,97,Mumbai,3,5.8
+1327,Riya,25,Mechanical,73,65,Mumbai,8,6.58
+1328,Riya,22,ECE,68,98,Pune,5,6.11
+1329,Manasi,19,Cyber Security,53,97,Delhi,4,8.53
+1330,Sneha,20,Mechanical,97,99,Nagpur,2,6.51
+1331,Neha,21,Cyber Security,65,62,Thane,3,8.77
+1332,Sneha,22,DS,84,85,Nashik,5,7.7
+1333,Ananya,22,Mechanical,52,65,Delhi,2,6.92
+1334,Priya,23,DS,61,85,Palghar,5,9.66
+1335,Ananya,18,AI,81,85,Nashik,8,9.17
+1336,Sneha,22,IT,64,99,Nagpur,6,6.78
+1337,Sai,21,Mechanical,55,93,Delhi,7,8.14
+1338,Sai,25,Cyber Security,74,72,Nagpur,7,7.82
+1339,Kavya,23,Mechanical,61,80,Thane,8,9.79
+1340,Vihaan,19,DS,60,99,Nashik,3,6.15
+1341,Priya,20,AI,79,89,Delhi,4,9.63
+1342,Vihaan,18,Cyber Security,78,76,Thane,5,7.1
+1343,Reyansh,23,ECE,54,62,Nagpur,7,7.59
+1344,Arjun,24,DS,87,63,Pune,3,7.98
+1345,Manasi,25,Cyber Security,86,62,Mumbai,8,7.64
+1346,Manasi,25,Mechanical,93,76,Delhi,1,8.05
+1347,Manasi,19,Mechanical,75,100,Nashik,7,9.02
+1348,Riya,25,CSE,82,91,Palghar,6,8.67
+1349,Kavya,22,IT,95,94,Mumbai,2,9.43
+1350,Vivaan,18,AI,97,78,Nagpur,8,9.71
+1351,Vivaan,18,CSE,52,74,Mumbai,6,7.76
+1352,Kavya,25,AI,62,76,Nashik,5,8.33
+1353,Priya,22,DS,96,76,Thane,1,7.98
+1354,Priya,20,Cyber Security,88,84,Pune,5,9.49
+1355,Manasi,22,CSE,71,74,Nashik,8,9.5
+1356,Neha,23,DS,84,60,Nagpur,6,6.84
+1357,Neha,22,Mechanical,52,74,Palghar,2,9.31
+1358,Vihaan,21,ECE,51,98,Palghar,4,9.48
+1359,Vihaan,23,IT,81,92,Nagpur,1,5.16
+1360,Reyansh,19,CSE,97,98,Nagpur,4,7.03
+1361,Ananya,21,AI,80,67,Nashik,3,8.86
+1362,Arjun,24,CSE,56,88,Nashik,8,8.57
+1363,Aditya,25,DS,68,74,Nagpur,6,8.18
+1364,Vihaan,19,AI,66,86,Palghar,3,7.67
+1365,Reyansh,20,Cyber Security,52,95,Nashik,4,5.78
+1366,Manasi,22,AI,61,77,Nashik,2,7.21
+1367,Sai,23,ECE,67,75,Delhi,1,5.25
+1368,Aditya,23,Cyber Security,64,70,Nagpur,2,8.84
+1369,Aarav,21,CSE,96,82,Nashik,4,8.0
+1370,Reyansh,18,ECE,63,64,Nashik,5,9.82
+1371,Aarav,22,CSE,57,85,Palghar,5,9.61
+1372,Reyansh,21,ECE,100,62,Nagpur,8,8.89
+1373,Ananya,23,CSE,72,77,Palghar,2,5.27
+1374,Sai,25,AI,97,82,Thane,3,7.61
+1375,Arjun,22,ECE,63,79,Nashik,8,5.67
+1376,Aarav,20,Mechanical,51,93,Mumbai,8,5.22
+1377,Vihaan,22,CSE,54,90,Nashik,1,9.9
+1378,Reyansh,20,Mechanical,100,93,Mumbai,7,7.51
+1379,Neha,18,ECE,71,61,Nagpur,2,9.55
+1380,Priya,20,IT,68,88,Nashik,5,8.53
+1381,Arjun,24,ECE,74,68,Nashik,1,9.18
+1382,Manasi,18,ECE,72,90,Delhi,4,8.1
+1383,Neha,18,DS,95,87,Mumbai,7,5.64
+1384,Reyansh,22,AI,66,83,Pune,8,6.93
+1385,Neha,20,IT,99,84,Mumbai,5,6.89
+1386,Vihaan,21,AI,61,81,Nagpur,2,6.95
+1387,Vihaan,25,DS,73,65,Delhi,7,8.64
+1388,Vivaan,22,Cyber Security,74,96,Nashik,3,5.05
+1389,Priya,22,AI,92,99,Mumbai,4,7.17
+1390,Manasi,24,CSE,70,91,Pune,5,9.1
+1391,Neha,25,CSE,79,81,Delhi,5,9.58
+1392,Aditya,22,AI,95,77,Nashik,2,7.34
+1393,Riya,25,IT,86,100,Nashik,3,6.02
+1394,Arjun,24,ECE,95,100,Nagpur,4,8.05
+1395,Sneha,21,Mechanical,98,97,Delhi,4,8.62
+1396,Aarav,18,Cyber Security,52,69,Mumbai,5,8.58
+1397,Vivaan,22,IT,76,92,Delhi,4,8.25
+1398,Priya,19,Cyber Security,65,96,Thane,4,5.28
+1399,Reyansh,18,Cyber Security,55,78,Nashik,7,7.9
+1400,Riya,24,Mechanical,50,92,Mumbai,3,9.71
+1401,Aditya,20,CSE,83,90,Pune,3,7.4
+1402,Priya,21,DS,79,76,Thane,3,5.11
+1403,Aarav,18,IT,56,65,Nagpur,2,6.77
+1404,Manasi,25,AI,82,81,Pune,2,7.85
+1405,Riya,23,AI,52,69,Nagpur,4,6.04
+1406,Sneha,22,CSE,73,91,Thane,8,9.29
+1407,Vihaan,20,IT,98,91,Delhi,6,6.14
+1408,Reyansh,20,DS,96,61,Nashik,2,6.93
+1409,Ananya,18,Mechanical,74,83,Mumbai,8,5.55
+1410,Vihaan,21,IT,89,89,Nagpur,1,7.13
+1411,Aditya,25,ECE,72,75,Mumbai,5,5.36
+1412,Vivaan,23,AI,76,73,Delhi,1,5.33
+1413,Priya,19,ECE,52,98,Delhi,1,9.67
+1414,Priya,19,AI,50,100,Nashik,1,5.55
+1415,Sneha,22,IT,74,68,Nashik,8,6.33
+1416,Riya,24,Mechanical,61,79,Nashik,7,7.82
+1417,Sneha,20,ECE,98,94,Palghar,8,7.37
+1418,Priya,20,Mechanical,85,82,Pune,4,9.94
+1419,Sai,20,ECE,81,72,Nashik,5,5.99
+1420,Aarav,24,CSE,78,90,Nagpur,8,5.85
+1421,Sai,21,ECE,78,73,Mumbai,4,6.79
+1422,Kavya,21,DS,61,64,Nashik,8,6.03
+1423,Kavya,19,Mechanical,78,76,Mumbai,1,6.0
+1424,Sneha,19,Cyber Security,61,96,Mumbai,2,8.22
+1425,Arjun,20,Mechanical,52,73,Delhi,6,5.15
+1426,Priya,19,Mechanical,64,75,Nagpur,7,9.58
+1427,Riya,22,IT,69,87,Nagpur,3,5.31
+1428,Priya,21,ECE,78,74,Palghar,7,9.64
+1429,Sneha,18,Mechanical,82,78,Nashik,7,8.07
+1430,Neha,18,ECE,67,74,Palghar,8,6.5
+1431,Neha,21,Cyber Security,57,71,Pune,8,7.81
+1432,Aditya,20,ECE,84,81,Thane,3,9.91
+1433,Manasi,23,Mechanical,57,74,Pune,5,7.48
+1434,Sneha,19,Cyber Security,72,87,Delhi,7,6.05
+1435,Sai,25,Cyber Security,53,75,Nagpur,8,9.95
+1436,Manasi,19,Mechanical,80,62,Delhi,6,8.18
+1437,Arjun,22,ECE,86,82,Nagpur,6,6.65
+1438,Vivaan,24,IT,75,73,Nashik,1,7.46
+1439,Sneha,21,Mechanical,100,64,Nashik,2,8.53
+1440,Arjun,25,IT,75,60,Thane,4,5.04
+1441,Riya,21,Cyber Security,76,84,Nagpur,7,9.85
+1442,Sneha,22,Cyber Security,66,100,Pune,4,9.5
+1443,Neha,25,IT,79,71,Thane,4,5.05
+1444,Vihaan,18,AI,98,78,Nagpur,7,5.05
+1445,Vivaan,19,CSE,70,70,Delhi,3,7.74
+1446,Kavya,18,DS,55,96,Thane,8,5.1
+1447,Neha,23,CSE,75,85,Nashik,3,7.33
+1448,Manasi,19,IT,65,86,Mumbai,2,5.32
+1449,Riya,19,Cyber Security,69,75,Nagpur,7,5.44
+1450,Vivaan,24,AI,58,75,Nashik,1,7.51
+1451,Reyansh,25,Cyber Security,63,72,Nagpur,5,6.62
+1452,Vihaan,21,CSE,99,92,Nagpur,2,8.76
+1453,Manasi,24,ECE,63,87,Mumbai,2,8.54
+1454,Ananya,25,IT,62,72,Nagpur,2,7.67
+1455,Vivaan,20,AI,99,63,Thane,8,5.83
+1456,Aarav,24,Mechanical,61,77,Palghar,2,8.36
+1457,Riya,21,IT,88,93,Pune,4,5.1
+1458,Aditya,22,ECE,80,64,Nagpur,3,7.58
+1459,Manasi,23,Cyber Security,94,76,Pune,1,6.12
+1460,Vihaan,18,AI,67,79,Mumbai,8,9.57
+1461,Kavya,20,DS,52,63,Delhi,2,9.02
+1462,Sneha,23,DS,89,97,Nashik,8,8.89
+1463,Vivaan,22,IT,55,70,Nashik,8,6.46
+1464,Reyansh,23,Mechanical,98,76,Mumbai,2,7.38
+1465,Vihaan,22,IT,87,99,Thane,1,9.48
+1466,Aarav,25,AI,74,97,Nagpur,2,7.2
+1467,Manasi,20,Cyber Security,83,88,Pune,8,8.35
+1468,Priya,18,Cyber Security,67,98,Nagpur,4,7.06
+1469,Ananya,23,AI,82,89,Thane,7,6.1
+1470,Reyansh,18,ECE,64,77,Thane,4,9.69
+1471,Priya,20,Mechanical,68,91,Nashik,7,7.08
+1472,Kavya,18,DS,75,93,Nashik,1,7.43
+1473,Arjun,23,AI,90,77,Nagpur,3,8.4
+1474,Vihaan,25,Mechanical,54,95,Pune,3,8.83
+1475,Sai,21,Mechanical,66,61,Mumbai,4,7.85
+1476,Arjun,21,CSE,79,87,Nashik,3,8.51
+1477,Manasi,25,Cyber Security,93,82,Mumbai,1,9.77
+1478,Priya,25,AI,65,89,Pune,1,7.04
+1479,Arjun,21,DS,56,83,Palghar,1,9.82
+1480,Sneha,20,Cyber Security,86,79,Nagpur,7,9.98
+1481,Riya,18,Mechanical,100,61,Nagpur,6,9.19
+1482,Arjun,25,Cyber Security,96,79,Thane,3,8.02
+1483,Ananya,24,ECE,87,83,Thane,2,5.6
+1484,Manasi,18,AI,90,96,Nagpur,7,6.44
+1485,Priya,20,Cyber Security,77,86,Mumbai,3,7.61
+1486,Manasi,24,AI,84,89,Nashik,2,6.0
+1487,Sai,20,Cyber Security,54,82,Pune,1,7.57
+1488,Riya,18,CSE,96,78,Thane,8,9.44
+1489,Riya,25,CSE,83,61,Delhi,5,7.96
+1490,Aditya,20,ECE,82,62,Palghar,4,8.73
+1491,Arjun,18,DS,91,91,Nashik,1,7.98
+1492,Ananya,20,AI,59,61,Thane,3,8.35
+1493,Aarav,23,DS,57,86,Pune,5,8.77
+1494,Reyansh,24,IT,98,100,Palghar,8,7.01
+1495,Neha,20,DS,53,69,Pune,8,5.28
+1496,Aditya,19,ECE,86,97,Nashik,6,8.47
+1497,Aditya,21,CSE,55,78,Thane,1,6.98
+1498,Kavya,22,AI,80,87,Pune,3,8.77
+1499,Vivaan,25,AI,71,97,Nagpur,2,5.49
+1500,Kavya,21,IT,83,60,Nashik,8,6.37
