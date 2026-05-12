@@ -15,10 +15,18 @@ def index():
 @app.route("/about")
 def about():
     return render_template("about.html")
-@app.route("/score/<int:marks>")
-def score(marks):
+@app.route("/test")
+def test():
+    return "FLASK IS WORKING"
+@app.route("/score_html/<int:marks>")
+def score_html(marks):
+    res=""
+    if marks>50:
+        res="PASSED"
+    else:
+        res="FAIL"
     # marks is received as an integer from the URL
     # str(marks) converts integer to string for concatenation
-    return "the score is: " +str(marks)
+    return render_template("score.html",scores=res)
 if __name__=="__main__":
     app.run(debug="True")
