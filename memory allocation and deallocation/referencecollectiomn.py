@@ -11,5 +11,6 @@ print(sys.getrefcount(a)) #2
 b=a
 print(sys.getrefcount(b)) #3
 del b
-print(sys.getrefcount(b))
+print(sys.getrefcount(b)) #not defined
+
 
